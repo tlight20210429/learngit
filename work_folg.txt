@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 write something too
+=======
+doing someting
+>>>>>>> 850bae908358e26a2566689ab54f1a58ac0f1b0d
